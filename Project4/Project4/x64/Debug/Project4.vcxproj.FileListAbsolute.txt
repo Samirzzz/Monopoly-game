@@ -1,0 +1,4 @@
+C:\Users\HP\source\repos\Project4\Project4\x64\Debug\Project4.vcxproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Project4\Project4\x64\Debug\Project4.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Project4\Project4\x64\Debug\Project4.MyForm.resources
+C:\Users\HP\source\repos\Project4\Project4\x64\Debug\Project4.vcxproj.GenerateResource.cache

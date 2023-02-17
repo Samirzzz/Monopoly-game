@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\HP\source\repos\Project4\Project4\MyForm.h(285,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\source\repos\Project4\Project4\MyForm.h(397,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  card.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project4.vcxproj -> C:\Users\HP\source\repos\Project4\x64\Debug\Project4.exe
